@@ -7,7 +7,7 @@ SDE at [SalesUp](https://salesup.club) (B2B sales-tech, remote) since Dec 2024 Â
 
 #### What I've built (in private company repos, so here's the short version)
 
-- **PitchArena ([pitcharena.club](https://pitcharena.club)), a live voice-AI sales-training platform.** Reps practise live calls with AI prospects in the browser, and an LLM scores every line. I built it nearly solo (300+ commits):
+- **PitchArena ([pitcharena.club](https://pitcharena.club), also [dosalesroleplay.com](https://dosalesroleplay.com)), a live voice-AI sales-training platform.** Reps practise live calls with AI prospects in the browser, and an LLM scores every line. I built it nearly solo (300+ commits):
   - Iterated through four real-time voice architectures, ending on LiveKit Agents.
   - Tuned turn-taking from production call data.
   - Multilingual STT/TTS routing across English and 9 Indic languages.
